@@ -1,0 +1,6 @@
+development:
+  loglevel: trace
+testing:
+  loglevel: debug
+production:
+  loglevel: info
